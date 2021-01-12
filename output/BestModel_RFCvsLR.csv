@@ -1,0 +1,4 @@
+,RFC Accuracy,LR Accuracy
+Base Model,89.817%,86.213%
+Select Features Model,90.16%,86.213%
+Tuned Model,89.703%,89.474%
