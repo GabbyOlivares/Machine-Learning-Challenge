@@ -1,6 +1,6 @@
 # Machine Learning: Exoplanet Exploration
 
-![exoplanet.jpg](Images/exoplanet_Scale.jpg)
+![exoplanet.jpg](Images/exoplanets.jpg)
 
 
 ## Background
