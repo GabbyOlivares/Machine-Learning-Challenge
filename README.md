@@ -2,7 +2,7 @@
 
 ![exoplanet.jpg](Images/exoplanets.jpg)
 
-* [My GitHub Link](https://github.com/GabbyOlivares/Machine-Learning-Challenge)
+* [ML GitHub Link](https://github.com/GabbyOlivares/Machine-Learning-Challenge)
 
 ## Background
 
