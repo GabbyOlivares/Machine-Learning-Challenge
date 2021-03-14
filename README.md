@@ -70,6 +70,10 @@ In this homework assignment, I performed as:
 
 * [Grid Search](https://scikit-learn.org/stable/modules/grid_search.html)
 
+* [ML Classification and Regression](https://spark.apache.org/docs/latest/ml-classification-regression.html)
+
+* [LR vs RFC](https://dzone.com/articles/logistic-regression-vs-decision-tree#:~:text=Check%20Data%20Types,convert%20it%20into%20numerical%20data.)
+
 - - -
 
 ## Hints and Considerations
